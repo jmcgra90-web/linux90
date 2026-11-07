@@ -1,1 +1,1 @@
-# Litecoin Wallet; currency exchange accounting method. See ALL financial statements first.
+# crypto gains/loss; currency exchange accounting method.  first.Cr 
